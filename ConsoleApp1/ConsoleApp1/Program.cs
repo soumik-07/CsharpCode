@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             System.Console.WriteLine("Welcome C#");
+            System.Console.WriteLine("Hello C#");
             System.Console.ReadLine();
 
         }
